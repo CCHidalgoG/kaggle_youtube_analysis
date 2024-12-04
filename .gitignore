@@ -1,0 +1,5 @@
+# Ignore the youtube-new directory
+youtube-new/
+youtube-new.zip
+# Ignore .idea
+.idea/
